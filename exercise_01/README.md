@@ -4,7 +4,7 @@
 Dans le monde de la programmation, une tâche fréquente consiste à formater des nombres décimaux pour les présenter de manière lisible, souvent selon les conventions commerciales. Imaginez pouvoir automatiser cette tâche! Dans ce projet, nous allons explorer comment créer une fonction informatique capable de formater un nombre décimal selon des critères spécifiques. Vous pourrez choisir entre le format français (virgule comme séparateur) ou anglais (point comme séparateur), définir le nombre de chiffres après la virgule, et décider s'il faut arrondir le résultat.
 
 **Objectif :**
-L'objectif principal est de développer une fonction en utilisant n'importe quel langage de programmation de votre choix. Cette fonction prendra en compte un nombre décimal, le format de chiffre (fr pour français, en pour anglais), le nombre de chiffres après la virgule, et un paramètre pour décider si le résultat doit être arrondi.
+L'objectif principal est de développer une fonction en utilisant n'importe quel langage de programmation de votre choix. Cette fonction prendra en compte un nombre décimal, le format de chiffre (fr pour français, en pour anglais), le nombre de chiffres après la virgule, et un paramètre pour décider si le résultat doit être arrondi. Ajouter des zeros '0' si le nombre après la virgule est inferieur à celle préciser dans le paramètre.
 
 **Exemples :**
 
